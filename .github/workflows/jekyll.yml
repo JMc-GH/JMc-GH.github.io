@@ -6,7 +6,8 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
 name: Deploy Jekyll site to Pages
 
-env: JMc-GH/JMc-GH.github.io
+env: 
+  PAGES_REPO_NWO: JMc-GH/JMc-GH.github.io
 on:
   # Runs on pushes targeting the default branch
   push:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "Navigating Assurance Debt: A Path to Safer Digital Health Solutions"
 date:   2024-03-24 08:53:37 +0000
 categories: CS

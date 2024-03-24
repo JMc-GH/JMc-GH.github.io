@@ -37,6 +37,33 @@ education:
   - degree: Computer Science and Artificial Intelligence
     institution: University of Birmingham
     dates: 1994 - 1995
+experience:
+  - title: Clinical Safety Officer
+    company: Yorkshire Ambulance Service NHS Trust
+    location: United Kingdom
+    duration: October 2023 – Present
+    description: >
+      Emphasises adherence to NHS Digital Safety Regulations to safeguard patient safety and
+      ensure the reliability of digital health applications. Conducts risk assessments to identify
+      and mitigate risks associated with the use of digital tools in clinical settings, continuously
+      reviewing and enhancing these solutions to uphold high standards of patient care. Collaborates
+      with diverse professionals to ensure digital solutions meet clinical needs and comply with safety
+      standards, facilitating seamless integration of technology in healthcare.
+  - title: Paramedic
+    company: Yorkshire Ambulance Service NHS Trust
+    location: Pateley Bridge
+    duration: July 2016 – Present
+    description: >
+      Dedicated to providing safe, patient-centric emergency care, leveraging advanced skills to assist
+      a diverse range of patients. This role demands extensive medical knowledge and the capacity for
+      rapid decision-making, often with incomplete information. Maintains composure under pressure,
+      employing critical thinking, problem-solving, and effective communication. Works within a framework
+      of guidelines and standards set by the HCPC, AACE, and the NHS. Commitment to ongoing professional
+      development is evidenced by a bachelor's degree in Paramedic Practice and a comprehensive CPD portfolio.
+  - title: Student Paramedic
+    company: Yorkshire Ambulance Service NHS Trust
+    duration: September 2014 – June 2016
+    description: ""
 previous_experience:
   - title: Data Migration Project Manager
     company: Provident Financial Group (PFG)

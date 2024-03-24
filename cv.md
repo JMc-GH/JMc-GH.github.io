@@ -2,6 +2,7 @@
 layout: single
 title: John McEwan's CV
 permalink: /cv/
+classes: wide
 ---
 
 <div class="cv-container">
@@ -29,6 +30,16 @@ permalink: /cv/
 
 <h2>Professional Summary</h2>
 <p>{{ site.data.cv.summary }}</p>
+
+<h2>Professional Experience</h2>
+{% for experience in site.data.cv.experience %}
+  <div class="experience">
+    <h3>{{ experience.title }}</h3>
+    <p>Company: {{ experience.company }}, Location: {{ experience.location }}</p>
+    <p>Duration: {{ experience.duration }}</p>
+    <p>{{ experience.description }}</p>
+  </div>
+{% endfor %}
 
 <h2>Previous Experience</h2>
 {% for item in site.data.cv.previous_experience %}

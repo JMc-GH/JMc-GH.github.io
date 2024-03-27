@@ -1,4 +1,5 @@
 ---
-layout: single
-title: "Resources"
+layout: page
+title: Resources
+permalink: /resources/
 ---

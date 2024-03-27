@@ -1,11 +1,9 @@
 ---
-layout: single
-title:  "Understanding Assurance Debt: A Hidden Risk in Digital Health"
-date:   2024-03-24 08:53:37 +0000
-classes: wide
+layout: post
+title:  "Navigating Risk Management Methodologies for ePR Systems: A Comparative Analysis"
+date:   2024-02-27 19:54:59 +0000
 categories: clinical-safety
 ---
-
 In the rapidly evolving landscape of digital health, where technology and healthcare converge to improve patient outcomes, a new form of technical debt emerges—Assurance Debt. This concept, particularly relevant to the realms of Clinical Safety Officers and stakeholders in healthcare technology, refers to the accumulated 'cost' associated with postponed or overlooked assurance activities in digital health applications and IT systems. Assurance debt embodies the future work and risk incurred when these critical activities are not adequately addressed from the outset.
 
 #### The Genesis of Assurance Debt

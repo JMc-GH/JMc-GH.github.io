@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: John McEwan
-email: johnmcewan.mcpara@outlook.com
+title: "JMc-GH.github.io"
+email: "johnmcewan.mcpara@outlook.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Healthcare Innovation and Safety
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,15 +27,12 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JMc_MCPara
 github_username:  JMc-GH
 
-author:
-  name: John McEwan
-  email: "johnmcewan.mcpara@outlook.com"
-
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
 
+google_analytics: G-1CL2M5J6XG 
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

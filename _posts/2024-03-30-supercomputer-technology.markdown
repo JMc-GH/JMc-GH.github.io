@@ -1,6 +1,17 @@
 ---
 layout: single
 title: "Technologies Behind Supercomputing"
+date: 2024-03-30
+categories:
+  - Supercomputing
+  - Technology Trends
+tags:
+  - Moore's Law
+  - Amdahl's Law
+  - Gustafson's Law
+  - Quantum Computing
+  - Energy Efficiency
+  - AI Integration
 ---
 
 Supercomputing evolves through Moore's, Amdahl's, and Gustafson's laws, balancing performance enhancements and physical limitations, with future growth pivoting on quantum computing, energy efficiency, and AI integration.

@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "contrast" # "default"  ,"air", "aqua", "contrast", "
 # Site Settings
 
 locale                   : "en-GB"
-title                    : "John McEwan"
+title                    : "Retpirato"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Navigating the Intersection of Technology and Healthcare: Insights on Innovation and Impact"
 name                     : "John McEwan"
 description              : "Paramedic and Clinical Safety Officer for an NHS Trust, committed to enhancing the safety and effectiveness of digital health applications and IT systems."
 url                      :  "https://www.retpirato.com"
@@ -27,7 +27,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  JMc-GH/JMc-GH.github.io 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/logo.png"
-masthead_title           : "John McEwan"
+masthead_title           : "Retpirato"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -97,7 +97,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : "google-universal" # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
     tracking_id          : G-L4XQPBJWKQ
     anonymize_ip         : # true, false (default)

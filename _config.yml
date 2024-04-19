@@ -22,7 +22,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "John McEwan"
 description              : "Paramedic and Clinical Safety Officer for an NHS Trust, committed to enhancing the safety and effectiveness of digital health applications and IT systems."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      :  "https://www.retpirato.com"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               :  JMc-GH/JMc-GH.github.io 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

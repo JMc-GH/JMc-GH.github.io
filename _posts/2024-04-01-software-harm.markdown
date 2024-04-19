@@ -13,6 +13,8 @@ tags:
   - PROMIS Controversy
 layout: single
 author_profile: true
+header:
+  teaser: https://upload.wikimedia.org/wikipedia/commons/6/6f/Terminal-dec-vt100.jpg
 ---
 
 Computer software is fraught with instances where innovation has inadvertently led to significant negative impacts, ranging from systemic failures to exploitations with grave consequences. This post delves into notable examples of such software, including unintentional harms caused by bugs and vulnerabilities, and intentional harms through malicious software, with a focus on the Horizon IT system and the PROMIS controversy, alongside additional examples to underscore the pervasive nature of these issues.

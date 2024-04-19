@@ -106,8 +106,8 @@ analytics:
 # Site Author
 author:
   name             : "John McEwan"
-  avatar           : "/images/JMc.jpg"
-  bio              : "Clinical Safety Officer"
+  avatar           : #"/images/JMc.jpg"
+  bio              : # "Clinical Safety Officer"
   location         : "UK"
   email            :
   links:

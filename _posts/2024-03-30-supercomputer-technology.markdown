@@ -3,15 +3,11 @@ layout: single
 title: "Technologies Behind Supercomputing"
 date: 2024-03-30
 categories:
-  - Supercomputing
-  - Technology Trends
+  - Tech
 tags:
-  - Moore's Law
-  - Amdahl's Law
-  - Gustafson's Law
-  - Quantum Computing
-  - Energy Efficiency
-  - AI Integration
+  - Performance
+  - Systems
+  - Engineering
 header:
     teaser: "https://www.datacenterknowledge.com/sites/datacenterknowledge.com/files/styles/article_featured_retina/public/summit%20supercomputer%20ornl%20ibm_0.jpg?itok=9xwJl8r-"
 ---

@@ -2,13 +2,12 @@
 title: "Data Store Setup"
 date: 2022-08-01
 categories:
-    - Tech
+  - Ethics
 tags:
-    - carbon-arc
-    - RDMS
-    - MySQL
-    - PostgreSQL
-draft: true
+  - carbon-arc
+  - Data
+  - Systems
+  - Storage
 ---
 This is to store source data for the automated scans, so subdomains. It will also store the results of the scans - possibly using triggers to automate alerts.  
 

@@ -1,15 +1,12 @@
 ---
 title: "OneDrive, Unraid and the 3-2-1 Rule"
 date: 2022-08-10
-categories: 
-    - Tech
+categories:
+  - Ethics
 tags:
-    - Linux
-    - OneDrive
-    - Unraid
-    - bash
-    - Virtualisation
-draft: false
+  - Data
+  - Storage
+  - Systems
 ---
 With the prospect of a university course on the horizon I thought I better have another look at cloud storage, as I'm likely to be generating stuff that I can't afford to lose as a result of a hardware failure. I have fault-tolerance provided by Unraid for all my data, but this server is a single point of failure - if it pops all the data is gone. This would have to be a fairly catastrophic event - as each individual drive is redundant, but I feel I should pay at least some attention to the [3-2-1 rule](https://www.acronis.com/en-us/blog/posts/backup-rule/).
 

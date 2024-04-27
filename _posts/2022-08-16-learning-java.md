@@ -2,12 +2,11 @@
 title: Learning Java
 date: 2022-08-16
 categories:
-    - CPD
+  - MSc
 tags:
-    - Java
-    - Codecademy
-    - Masters
-draft: false
+  - Programming
+  - Education
+  - Development
 ---
 
 Part of upcoming masters degree involves using [Java](https:///www.java.com), which I have no experience with. I also never had any intention of learning it before now, I would have preferred to have added something like [Go](https://go.dev) - but this is only because I see it used frequently in pen-test and bug bounty tools. Advantages are that I could potentially start bug-hunting mobile phone apps thanks to Java's portability across device types. Also I think [BurpSuite](https://www.portswigger.net) is written in Java and it's one of my aims to write my own modules for this (although I don't think this has to be done in Java).

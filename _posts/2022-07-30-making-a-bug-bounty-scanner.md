@@ -2,11 +2,12 @@
 title: "Making a Bug Bounty Scanner"
 date: 2022-07-30
 categories:
-    - Tech
+    - Ethics
 tags:
     - carbon-arc
-    - bug-bounty
-draft: true
+    - Security
+    - Software
+    - Systems
 ---
 
 I'm going to a make an application to can for bugs on the internet.

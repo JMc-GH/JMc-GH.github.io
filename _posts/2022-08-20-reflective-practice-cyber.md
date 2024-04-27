@@ -2,12 +2,11 @@
 title: Reflective Practice in Cyber Security
 date: 2022-08-20
 categories:
-    - CPD
+  - Digital
 tags:
-    - paramedicine
-    - cyber-security
-    - reflective-practice
-draft: false
+  - Cyber
+  - Devlopment
+  - Security
 ---
 
 In paramedicine we rely on reflective practice. I think this is because medicine is a field that is advancing quickly - faster than you could keep up with through structured learning, text-books, class-based, e-learning, etc. The idea is that you analyse what you did with a view to doing it better next time - this kind of gives you a specific area to research and understand better. The goal is to improve your practice. [Christopher Johns](https://www.toolshero.com/personal-development/johns-model-of-reflection/) identified reflection as a means of professional supervision, a structured way of letting us step back and look at what just happened. As ambulance people the opportunities are scarce to discuss jobs with colleagues, so this offers a way of discussing it with yourself, sort of.

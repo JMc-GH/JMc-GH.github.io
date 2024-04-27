@@ -2,17 +2,14 @@
 title: "The Dual Edges of Software: Navigating Between Innovation and Impact"
 date: 2024-04-01
 categories:
-  - Technology
-  - Cybersecurity
+  - Tech
 tags:
-  - Software Safety
-  - Cyber Warfare
-  - Malicious Software
-  - Software Vulnerabilities
-  - Horizon IT
-  - PROMIS Controversy
+  - Software
+  - Implications
+  - Cyber
+  - Risk
 layout: single
-author_profile: true
+author_profile: false
 header:
   teaser: https://upload.wikimedia.org/wikipedia/commons/6/6f/Terminal-dec-vt100.jpg
 ---

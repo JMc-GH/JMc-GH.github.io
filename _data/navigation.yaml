@@ -1,0 +1,9 @@
+main:
+  - title: "Innovation"
+    url: /innovation/
+  - title: "World"
+    url: /world/
+  - title: "Ethics"
+    url: /ethics/
+  - title: "Articles"
+    url: /posts/

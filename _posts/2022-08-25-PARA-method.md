@@ -2,11 +2,12 @@
 title: The PARA Method to organise notes
 date: 2022-08-25
 categories:
-    - productivity
+categories:
+  - Digital
 tags:
-    - obsidian
-    - markdown
-draft: false
+  - Productivity
+  - Education
+  - Efficiency
 
 ---
 

@@ -3,10 +3,11 @@ author: John McEwan
 title: Kilner Jar Salads
 date: 2022-07-27
 categories:
-    - Food
+    - World
 tags:
-    - salad-jar
-    - recipes
+    - Lifestyle
+    - Efficiency
+    - Health
 ---
 ## TL;DR
 

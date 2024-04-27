@@ -3,7 +3,13 @@ layout: single
 title:  "Navigating Risk Management Methodologies for ePR Systems: A Comparative Analysis"
 date:   2024-02-18 08:53:37 +0000
 classes: wide
-categories: clinical-safety
+categories:
+  - Digital
+tags:
+  - Healthcare
+  - Analysis
+  - Risk
+  - Systems
 ---
 In the landscape of digital health, the deployment of Electronic Patient Record (ePR) systems signifies a monumental shift towards streamlined healthcare delivery. However, this transformation introduces a spectrum of risks related to data integrity, confidentiality, and system reliability. Selecting a suitable risk management methodology is thus critical to ensuring the safety and effectiveness of ePR implementations. This article delves into various risk management strategies, evaluating their applicability and efficacy for ePR systems across any healthcare setting.
 

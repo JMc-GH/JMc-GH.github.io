@@ -1,7 +1,12 @@
 ---
 title: "Hacking air-gapped networks"
 date: 2022-09-04T22:55:03+01:00
-draft: false
+categories:
+  - World
+tags:
+  - Security
+  - Networks
+  - Systems
 ---
 Hacking networks that are not connected to other networks (including the internet) are thought to be super-secure. They are used for malware analysis, exploit research and keeping sensitive systems from outside interferance. 
 

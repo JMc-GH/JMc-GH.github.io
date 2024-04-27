@@ -3,7 +3,12 @@ layout: single
 title:  "Understanding Assurance Debt: A Hidden Risk in Digital Health"
 date:   2024-03-24 08:53:37 +0000
 classes: wide
-categories: clinical-safety
+categories:
+  - Tech
+tags:
+  - Healthcare
+  - Systems
+  - Risk
 header:
     teaser: "https://upload.wikimedia.org/wikipedia/commons/3/39/Concorde_216_%28G-BOAF%29_last_flight.jpg"
 ---

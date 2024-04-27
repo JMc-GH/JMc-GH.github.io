@@ -1,7 +1,13 @@
 ---
 layout: single
 title: "Instruction Micro-sequencing"
-tags: MSc
+categories:
+  - Tech
+  - MSc
+tags:
+  - Systems
+  - Architechture
+  - Computing
 header:
     teaser: "https://media.geeksforgeeks.org/wp-content/uploads/20210511100017/Untitleddrawing51-660x495.jpg"
 ---

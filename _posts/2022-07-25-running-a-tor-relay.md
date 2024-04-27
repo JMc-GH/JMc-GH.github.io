@@ -1,13 +1,12 @@
 ---
 title: 'Running a Tor relay'
 date: 2022-07-21
-draft: false
 categories:
- - Tech
+ - Ethics
 tags:
- - Linux
- - config
- - privacy
+ - Networks
+ - Privacy
+ - Security
 ---
 
 ## TL;DR

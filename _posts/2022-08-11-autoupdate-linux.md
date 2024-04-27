@@ -2,12 +2,12 @@
 title: Configuring Debian to Automatically Apply Security Updates
 date: 2022-08-11
 categories:
-    - Tech
+    - Digital
 tags:
     - Linux
-    - Debian
-    - Proxmox
-    - config
+    - Security
+    - Systems
+    - Management
 ---
 
 I'm doing this on a 'live' virtualisation server running Proxmox. There is a first step here to change the Proxmox repo, as I'm cheap and I haven't paid for the enterprise edition, I don't have access to the enterprise repositories. This causes at error when you `apt update`. So I added a file called `pve-non-enterprise.list` which includes the line:  

@@ -1,12 +1,12 @@
 ---
 title: "Llandudno"
-draft: true
 date: 2022-07-14
 categories:
-    - Travel
+    - World
 tags:
-    - Llandudno
-draft: false
+    - Travel
+    - Historical
+    - Lifestyle
 ---
 
 I lived in Llandudno from age 3, when my parents loved from Scotland. We stayed until I was 15, so I pretty much grew up in the town.

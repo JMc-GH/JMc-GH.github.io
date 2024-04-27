@@ -8,6 +8,7 @@ tags:
     - Security
     - Software
     - Systems
+draft: true
 ---
 
 I'm going to a make an application to can for bugs on the internet.

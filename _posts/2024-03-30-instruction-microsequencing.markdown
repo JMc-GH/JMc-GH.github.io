@@ -2,7 +2,6 @@
 layout: single
 title: "Instruction Micro-sequencing"
 categories:
-  - Tech
   - MSc
 tags:
   - Systems
@@ -10,6 +9,7 @@ tags:
   - Computing
 header:
     teaser: "https://media.geeksforgeeks.org/wp-content/uploads/20210511100017/Untitleddrawing51-660x495.jpg"
+draft: true
 ---
 Instruction micro-sequencing in CPUs decodes and executes instructions via micro-operations, involving fetching, decoding, executing, and writing back, exemplified by an ADD operation's systematic process.
 

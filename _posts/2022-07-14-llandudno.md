@@ -7,6 +7,7 @@ tags:
     - Travel
     - Historical
     - Lifestyle
+draft: true
 ---
 
 I lived in Llandudno from age 3, when my parents loved from Scotland. We stayed until I was 15, so I pretty much grew up in the town.

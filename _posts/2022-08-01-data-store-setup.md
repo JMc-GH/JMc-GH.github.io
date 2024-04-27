@@ -8,6 +8,7 @@ tags:
   - Data
   - Systems
   - Storage
+draft: true
 ---
 This is to store source data for the automated scans, so subdomains. It will also store the results of the scans - possibly using triggers to automate alerts.  
 

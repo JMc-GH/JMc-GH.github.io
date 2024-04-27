@@ -7,6 +7,7 @@ tags:
   - Crypto
   - Privacy
   - Cryptography
+draft: true
 ---
 
 Most cryptocurrency transactions are not private, in fact they are the opposite. Use any of the major crypto currencies your transactions are logged on the public blockchain, forever - and are subject to increasingly stringent scrutiny from the authorities. The antithesis of this is Monero - one of a few 'Privacy' coins. I've been using it for a few years now, as a miner and as a means of payment. Unlike most other crypto currencies (including Bitcoin), transactions are secret. Why would you want that? I suppose the same reason that you have blinds on your windows, you're not up to anything nefarious - but that doesn't mean you want to be on display to the world.  

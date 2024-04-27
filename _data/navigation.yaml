@@ -1,9 +1,17 @@
 main:
-  - title: "Innovation"
-    url: /innovation/
+  - title: "Home"
+    url: /
+  - title: "Digital"
+    url: /categories#digital
   - title: "World"
-    url: /world/
+    url: /categories#world
   - title: "Ethics"
-    url: /ethics/
-  - title: "Articles"
-    url: /posts/
+    url: /categories#ethics
+
+tag-cloud:
+  - title: "Post Information"
+    children:
+  -   title: "Tags"
+      output:
+        custom: "tags-list.html"
+

@@ -285,10 +285,11 @@ defaults:
       path: ""
       type: posts
     values:
+      # sidebar: 
+      #  nav: tag-cloud
       layout: single
       author_profile: false
       read_time: true
       comments: # true
       share: true
       related: true
-      draft: true

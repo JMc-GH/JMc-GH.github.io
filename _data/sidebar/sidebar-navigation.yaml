@@ -1,0 +1,5 @@
+title: "Post Information"
+entries:
+  - title: "Tags"
+    output:
+      custom: "tags-list.html"

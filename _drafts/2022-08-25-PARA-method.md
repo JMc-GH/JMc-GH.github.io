@@ -8,7 +8,6 @@ tags:
   - Productivity
   - Education
   - Efficiency
-
 ---
 
 I've settled on Obsidian for note making, because:

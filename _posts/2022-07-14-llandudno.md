@@ -1,5 +1,6 @@
 ---
 title: "Llandudno"
+draft: true
 date: 2022-07-14
 categories:
     - Travel

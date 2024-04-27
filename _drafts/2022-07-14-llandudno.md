@@ -1,7 +1,7 @@
 ---
 title: "Llandudno"
 date: 2022-07-14
-categories:
+category:
     - World
 tags:
     - Travel
